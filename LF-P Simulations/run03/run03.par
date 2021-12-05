@@ -1,0 +1,16 @@
+DEMfile			tadcaster.asc
+resroot			run03
+dirroot			DEM5m_2D
+sim_time		193500.0
+initial_tstep		0.2
+massint			900.0
+saveint			900.0
+fpfric			0.055
+bdyfile			run03.bdy
+#stagefile			carlisle.stage
+bcifile			tadcaster.bci
+elevoff
+acceleration
+drycheckoff
+#hazard
+sgc_enable
